@@ -1,0 +1,56 @@
+# Vscode
+.vscode/
+
+# TEMP files
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+*.tmp
+*.bak
+*.old
+*temp*
+*tmp*
+
+# Compiled files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.class
+*.jar
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+
+
+
