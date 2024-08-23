@@ -1,5 +1,6 @@
 # Vscode
 .vscode/
+*.pdf # 暂时移除
 
 # TEMP files
 *.swp
